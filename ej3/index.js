@@ -1,0 +1,6 @@
+const logger = require('logplease')
+const Logger = logger.create('utils')
+Logger.debug(`Hola mundo de Node`)
+Logger.info(`¡Informacion de ultimo momento, Node.js es lo más!!`)
+Logger.warn(`Tirando warning como campeones`)
+Logger.error(`¡Algo no está bien!`)

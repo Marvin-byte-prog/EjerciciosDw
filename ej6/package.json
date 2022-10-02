@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio6",
+  "version": "1.0.0",
+  "description": "ejercicio6",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./ej6.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marvin",
+  "license": "ISC"
+}
